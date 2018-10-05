@@ -28,4 +28,27 @@ are color coordinated to show different years with different colors (2012 is red
 it easier to visualize how the relationship changes over time.
 
 Combing through the analysis, one is able to see which economic indicators act as the ideal predictors for which
-stocks (sectors)
+stocks (sectors).
+
+Example plots of relationships between ETFs and other ETFs and ETFs and economic indicators. Examples with varying time shifts.
+
+Technology vs. Basic Materials with 20 day time shift
+![alt text](https://github.com/savanaconda/ComplexStockMarketAnalysis/blob/master/Technology_vs_BasicMaterials_20dayshift.png)
+
+Technology vs. Basic Materials with 40 day time shift
+![alt text](https://github.com/savanaconda/ComplexStockMarketAnalysis/blob/master/Technology_vs_BasicMaterials_40dayshift.png)
+
+Technology vs. Basic Materials with 60 day time shift
+![alt text](https://github.com/savanaconda/ComplexStockMarketAnalysis/blob/master/Technology_vs_BasicMaterials_60dayshift.png)
+
+Technology vs. Consumer Goods with 20 day time shift
+![alt text](https://github.com/savanaconda/ComplexStockMarketAnalysis/blob/master/Technology_vs_ConsumerGoods_20dayshift.png)
+
+Technology vs. Utilities with 20 day time shift
+![alt text](https://github.com/savanaconda/ComplexStockMarketAnalysis/blob/master/Technology_vs_Utilities_20dayshift.png)
+
+Technology vs. Unemployment Rate with 20 day time shift
+![alt text](https://github.com/savanaconda/ComplexStockMarketAnalysis/blob/master/Technology_vs_UnemploymentRate_20dayshift.png)
+
+Technology vs. Unemployment Rate with 100 day time shift
+![alt text](https://github.com/savanaconda/ComplexStockMarketAnalysis/blob/master/Technology_vs_UnemploymentRate_100dayshift.png)
