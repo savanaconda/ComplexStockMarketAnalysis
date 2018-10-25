@@ -10,7 +10,7 @@ This code analyzes the correlation between different economic indicators, with t
 a relationship between different indicators and stocks in order to predict the behavior of stocks
 based on indicators.
 
-Ideally, we would have an economic indictor or combination of economic indicators which correlates
+Ideally, we would have an economic indicator or combination of economic indicators which correlates
 with stock prices a few weeks or months in the future. This would allow us to look at the current state
 of the economic indicators and buy stock which will go up in the next few weeks or months.
 
