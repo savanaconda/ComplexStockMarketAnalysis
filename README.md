@@ -1,4 +1,4 @@
-# Complex Stock Market Analysis: Time-Shifted Correlation
+# Time-Shifted Correlation of Economic Indicators
 
 ## Description
 More complex stock market analysis to predict sector ETF performance based on past weeks' economic indicators
